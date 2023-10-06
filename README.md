@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Yazan Hijazi
 ![](https://media.licdn.com/dms/image/D4E16AQFkvxt56UWTsg/profile-displaybackgroundimage-shrink_350_1400/0/1695591485761?e=1701907200&v=beta&t=RkLVcq8tcKPcP-jRse3zA6JEQ2XnojGkEf-p5srABtM)
 
-I'm Yazan Hijazi, a passionate data scientist who thrives on using data to derive meaningful insights and make informed decisions.
+A passionate data scientist who thrives on using data to derive meaningful insights and make informed decisions.
 
 Skills: Data Analysis and Visualization - Machine Learning - Python, R, SQL - Data Cleaning and Preprocessing
 
