@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="356" viewBox="0 0 490 356" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">
+<style>.l{opacity:0;animation:in .4s ease-out forwards}@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}</style>
+<rect width="490" height="356" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="18" cy="16" r="5" fill="#ff5f56"/>
+<circle cx="34" cy="16" r="5" fill="#ffbd2e"/>
+<circle cx="50" cy="16" r="5" fill="#27c93f"/>
+<text x="245.0" y="20" text-anchor="middle" fill="#8b949e" font-size="11">~ neofetch</text>
+<text class="l" style="animation-delay:0.60s" x="18" y="53" fill="#58a6ff">yazan@github</text>
+<text class="l" style="animation-delay:0.72s" x="18" y="72" fill="#8b949e">------------</text>
+<text class="l" style="animation-delay:0.84s" x="18" y="91"><tspan fill="#39d353" font-weight="bold">Name</tspan><tspan x="108" fill="#c9d1d9">Yazan Hijazi</tspan></text>
+<text class="l" style="animation-delay:0.96s" x="18" y="110"><tspan fill="#39d353" font-weight="bold">Location</tspan><tspan x="108" fill="#c9d1d9">Amman, Jordan</tspan></text>
+<text class="l" style="animation-delay:1.08s" x="18" y="129"><tspan fill="#39d353" font-weight="bold">Role</tspan><tspan x="108" fill="#c9d1d9">Automation Engineer &amp; BI Developer</tspan></text>
+<text class="l" style="animation-delay:1.20s" x="18" y="148"><tspan fill="#39d353" font-weight="bold">Now</tspan><tspan x="108" fill="#c9d1d9">Jo Academy · since Oct 2024</tspan></text>
+<text class="l" style="animation-delay:1.32s" x="18" y="167"><tspan fill="#39d353" font-weight="bold">Prev</tspan><tspan x="108" fill="#c9d1d9">Data Analyst Intern · SHAI for AI</tspan></text>
+<text class="l" style="animation-delay:1.44s" x="18" y="186"><tspan fill="#39d353" font-weight="bold">Study</tspan><tspan x="108" fill="#c9d1d9">BSc Data Science · Al-Balqa' '24</tspan></text>
+<text class="l" style="animation-delay:1.68s" x="18" y="214"><tspan fill="#39d353" font-weight="bold">Impact</tspan><tspan x="108" fill="#c9d1d9">60+ processes automated · ~700 users</tspan></text>
+<text class="l" style="animation-delay:1.80s" x="18" y="233"><tspan x="108" fill="#c9d1d9">Bitrix24 ERP/CRM + HR integration</tspan></text>
+<text class="l" style="animation-delay:1.92s" x="18" y="252"><tspan fill="#39d353" font-weight="bold">n8n</tspan><tspan x="108" fill="#c9d1d9">IVR · WhatsApp bot · email approvals</tspan></text>
+<text class="l" style="animation-delay:2.04s" x="18" y="271"><tspan fill="#39d353" font-weight="bold">BI</tspan><tspan x="108" fill="#c9d1d9">Metabase · Power BI · Python · SQL</tspan></text>
+<text class="l" style="animation-delay:2.16s" x="18" y="290"><tspan fill="#39d353" font-weight="bold">Built</tspan><tspan x="108" fill="#c9d1d9">Together · Cairn · Candor</tspan></text>
+<text class="l" style="animation-delay:2.40s" x="18" y="318"><tspan fill="#39d353" font-weight="bold">Links</tspan><tspan x="108" fill="#c9d1d9">yaznhijazi.runs-on.dev</tspan></text>
+<rect class="l" style="animation-delay:2.52s" x="18" y="333" width="20" height="12" rx="2" fill="#161b22"/>
+<rect class="l" style="animation-delay:2.52s" x="40" y="333" width="20" height="12" rx="2" fill="#0e4429"/>
+<rect class="l" style="animation-delay:2.52s" x="62" y="333" width="20" height="12" rx="2" fill="#006d32"/>
+<rect class="l" style="animation-delay:2.52s" x="84" y="333" width="20" height="12" rx="2" fill="#26a641"/>
+<rect class="l" style="animation-delay:2.52s" x="106" y="333" width="20" height="12" rx="2" fill="#39d353"/>
+<rect class="l" style="animation-delay:2.52s" x="128" y="333" width="20" height="12" rx="2" fill="#58a6ff"/>
+<rect class="l" style="animation-delay:2.52s" x="150" y="333" width="20" height="12" rx="2" fill="#bc8cff"/>
+<rect class="l" style="animation-delay:2.52s" x="172" y="333" width="20" height="12" rx="2" fill="#ff7b72"/>
+</svg>

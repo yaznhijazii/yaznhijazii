@@ -1,52 +1,59 @@
-<h1 align="center">Hi, I'm Yazan Hijazi 👋</h1>
-<p align="center">
-  Data scientist turned builder — I ship web apps and internal tools, and use data to decide what to build next.<br/>
-  📍 Jordan · 🇵🇸 Palestinian
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://yazanportfolio-green.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/yazan-hijazi-a642a017a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/yaznhijazi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.solo.to/yaznn"><img src="https://img.shields.io/badge/All_links-555?style=for-the-badge&logo=linktree&logoColor=white" alt="Links"/></a>
-</p>
+<h3><code>yazan@github ~ $ whoami</code></h3>
+<table>
+<tr>
+<td valign="top"><img src="./ascii-portrait.svg" width="391" alt="ASCII portrait of Yazan Hijazi" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Yazan Hijazi: Automation Engineer &amp; BI Developer at Jo Academy. Bitrix24, n8n, Metabase, Power BI, Python, SQL." /></td>
+</tr>
+</table>
 
----
+<br>
 
-### 🛠️ Stack
+<h3><code>yazan@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="881" alt="Contribution heatmap for the last year" />
 
-**Build:** &nbsp; <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,html,css,vercel,figma" />
+<br><br>
 
-**Data:** &nbsp; <img src="https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,postgres" /> &nbsp; + Power BI, Jupyter
+<h3><code>yazan@github ~ $ ls ~/work --selected</code></h3>
 
----
-
-### 🚀 Featured projects
-
-| Project | What it is | Stack |
+| Project | What it does | Built with |
 |---|---|---|
-| [**Norna**](https://github.com/yaznhijazii/Norna-V2) · [live](https://norna-v2.vercel.app) | Daily Islamic planner for couples — prayers timeline, athkar, Quran tracking, shared partner progress | TypeScript · React |
-| [**Job Fair JO**](https://github.com/yaznhijazii/jobfairjo) · [live](https://jobfairjo.vercel.app) | Job fair web app | TypeScript |
-| [**araocr**](https://github.com/yaznhijazii/araocr) · [live](https://araocr-eta.vercel.app) | Arabic OCR tool | Python |
-| [**Customer Churn**](https://github.com/yaznhijazii/ChurnCustomer) | Churn prediction with ML + Power BI dashboards | Python · Power BI |
-| [**AAPL Forecasting**](https://github.com/yaznhijazii/AppleStockPricePrediction) | Apple stock forecasting with ARIMA vs LSTM | Python · TensorFlow |
-| [**Flipkart Sentiment**](https://github.com/yaznhijazii/FlipkartNLP) | Sentiment analysis on e-commerce product reviews | Python · NLP |
+| [**Together**](https://yaznhijazi.runs-on.dev/project-together.html) | Jo Academy's all-in-one team app for ~1,000 employees: calendar, chat, tasks, team management and Ping, an AI assistant | Vite · Supabase · Realtime · Web Push · PWA |
+| [**Cairn**](https://yaznhijazi.runs-on.dev/project-cairn.html) | An AI automation team: 13 AI specialists read Bitrix24, n8n and Metabase, then plan, build and fix automations, with a human approving every change | Next.js · React · Claude / GPT / Gemini · n8n MCP |
+| [**Candor**](https://yaznhijazi.runs-on.dev/project-candor.html) | An autonomous AI recruiter: screens candidates, runs live voice interviews in Jordanian Arabic or English, and hands over an evidence-checked report | Supabase Edge Functions · pg_cron · Gemini Live |
+
+<br>
+
+<h3><code>yazan@github ~ $ n8n list --active</code></h3>
+
+| Automation at Jo Academy | |
+|---|---|
+| **60+ business processes** | Automated end to end in Bitrix24 for ~700 people |
+| **ERP + HR integration** | Bitrix24 as ERP/CRM, synced with the HR system so manual entry drops |
+| **n8n workflows** | IVR, WhatsApp chatbot, email approvals |
+| **Dashboards** | Metabase and Power BI KPI reports, Python and SQL underneath |
 
 <details>
-<summary><b>More: internal tools I built at JoAcademy</b></summary>
+<summary><b>Earlier side projects</b></summary>
+<br>
 
-Form builder, PMO tracker, inventory, delivery tracking, calendar, learning tracker, content tools — all shipped on Vercel.
+| Project | What it is |
+|---|---|
+| [Norna](https://github.com/yaznhijazii/Norna-V2) · [live](https://norna-v2.vercel.app) | Daily Islamic planner for couples |
+| [Customer Churn](https://github.com/yaznhijazii/ChurnCustomer) | Churn prediction with ML + Power BI dashboards |
+| [AAPL Forecasting](https://github.com/yaznhijazii/AppleStockPricePrediction) | Apple stock forecasting, ARIMA vs LSTM |
+| [Flipkart Sentiment](https://github.com/yaznhijazii/FlipkartNLP) | Sentiment analysis on product reviews |
 
 </details>
 
----
+<br>
 
-### 📊 GitHub stats
+<h3><code>yazan@github ~ $ cat contact.txt</code></h3>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yaznhijazii&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaznhijazii&layout=compact&hide_border=true&theme=transparent" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yaznhijazii&hide_border=true&theme=transparent" />
-</p>
+<a href="https://yaznhijazi.runs-on.dev"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/yazan-hijazi-a642a017a/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/yaznhijazi/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=39d353" alt="Instagram"/></a>
+<a href="https://www.solo.to/yaznn"><img src="https://img.shields.io/badge/All_links-0d1117?style=for-the-badge&logo=linktree&logoColor=39d353" alt="All links"/></a>
+
+</div>
